@@ -23,4 +23,4 @@ misc
 
 Written by Hanno Böck, https://hboeck.de
 
-License: CC0
+License: The Unlicense (meaning do with it whatever you like)
