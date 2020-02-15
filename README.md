@@ -16,7 +16,7 @@ background
 
 * Discussion on Gitlab https://gitlab.gnome.org/GNOME/gimp/issues/4487
 * Twitter discussion by Will Dormann https://twitter.com/wdormann/status/1215746766659837953
-* Article on Golem.de (German) https://forum.golem.de/kommentare/security/alphakanal-gimp-verraet-geheimnisse-in-bildern/132613,list.html
+* Article on Golem.de (German) https://www.golem.de/news/alphakanal-gimp-verraet-geheimnisse-in-bildern-2002-146504.html
 * Video showing the issue https://www.youtube.com/watch?v=iE1j_VQJm0U
 
 misc
